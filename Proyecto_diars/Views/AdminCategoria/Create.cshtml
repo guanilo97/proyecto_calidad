@@ -1,0 +1,20 @@
+﻿@{ Layout = "_AdminLayout"; }
+
+<div class="container-fluid">
+    <div class="row page-title clearfix">
+        <div class="page-title-left">
+            <h6 class="page-title-heading mr-0 mr-r-5">Registrar categoria</h6>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <form action="/AdminCategoria/Create" method="post">
+                <div class="form-group">
+                    <label class="control-label">Nombre</label>
+                    <input type="text" name="Nombre_Categoria" class="form-control" />
+                </div>
+                <button type="submit" class="btn btn-primary">Guardar</button>
+            </form>
+        </div>
+    </div>
+</div>

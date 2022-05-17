@@ -1,0 +1,117 @@
+﻿@{ Layout = "_AdminLayout"; }
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+
+<section class="content">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th><label>Usuario</label></th>
+                @*<th>Nª Personas</th>*@
+                <th><label>Mesa</label></th>
+                @*<th>Platos</th>*@
+                <th><label style="margin-right:100px;margin-left:100px">Plato</label><label style="margin-right:80px">Cantidad</label><label>Estado</label> </th>
+            </tr>
+
+        </thead>
+        <tbody>
+            @foreach (var reserva in Model)
+            {
+                <tr>
+                    <td>@reserva.usuario.Username</td>
+                    @*<td>@reserva.N_personas</td>*@
+                    <td>@reserva.mesa.N_Mesa</td>
+                    @*<td><a href="/Personal/detallepedido?id=@item.Id" class="btn btn-success">Detalle Pedido</a></td>*@
+                    <td>
+                        @foreach (var item in reserva.detalle_Reservas)
+                        {
+                            <table class="table text-center">
+
+                                <tbody>
+                                    <tr>
+                                        @foreach (var producto in ViewBag.Productos)
+                                        {
+                                            if (item.Id_producto == producto.Id_producto)
+                                            {
+                                                <td>@producto.Nombre</td>
+                                            }
+                                        }
+                                        @*<td>@item.Id_producto</td>*@
+                                        <td>@item.Cantidad</td>
+                                        @*<td>@item.Id_Estado</td>*@
+                                        @foreach (var estado in ViewBag.Estados)
+                                        {
+                                            if (item.Id_Estado == estado.Id)
+                                            {
+                                                <td>@estado.Nombre_Estado</td>
+                                            }
+                                        }
+
+                                        <td>
+                                            @if (item.Id_Estado == 2)
+                                            {
+                                                <button type="button" class="estadodetalle btn btn-danger" data-bs-toggle="modal" data-iddetallereserva="@item.Id" data-bs-target="#exampleModal">
+                                                    Cambiar estado
+                                                </button>
+                                            }
+                                            else
+                                            {
+                                                <button type="button" class="btn btn-outline-light">. . .    .SERVIDO.    . . .</button>
+                                            }
+
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        }
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+
+</section>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Seleccione estado a cambiar</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <h4>Cambiar de estado reservado a servido</h4>
+            </div>
+            <div class="modal-footer">
+                <button id="confirmarcambio" type="button" class="btn btn-success">Confirmar cambio</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <script>
+        var iddetalle = 0;
+
+        $("body").on("click", ".estadodetalle", function (e) {
+            var $this = $(this)
+
+            e.preventDefault();
+            iddetalle = $this.data("iddetallereserva");
+        });
+
+        $('#confirmarcambio').click(function () {
+            var request = $.ajax({
+                url: '/Personal/CambiarEstadoPlato?iddetalle=' + iddetalle
+            });
+
+            request.done(function (resp) {
+                if (resp == true) {
+                    location.reload();
+                }
+            });
+        });
+    </script>

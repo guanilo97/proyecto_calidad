@@ -1,0 +1,104 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/plantilla_admi/img/favicon.png">
+    <link rel="stylesheet" href="~/plantilla_admi/css/pace.css">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Doña Silvia</title>
+    <!-- CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600" rel="stylesheet" type="text/css">
+    <link href="~/plantilla_admi/vendors/material-icons/material-icons.css" rel="stylesheet" type="text/css">
+    <link href="~/plantilla_admi/vendors/feather-icons/feather.css" rel="stylesheet" type="text/css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.4.0/css/perfect-scrollbar.min.css" rel="stylesheet" type="text/css">
+    <link href="~/plantilla_admi/css/style.css" rel="stylesheet" type="text/css">
+    <!-- Head Libs -->
+    <script src="~/plantilla_admi/js/modernizr.min.js"></script>
+    <script data-pace-options='{ "ajax": false, "selectors": [ "img" ]}' src="~/plantilla_admi/js/pace.min.js"></script>
+
+</head>
+
+
+<body class="sidebar-horizontal">
+    <div id="wrapper" class="wrapper">
+        <!-- HEADER & TOP NAVIGATION -->
+        <nav class="navbar">
+            <div class="container-fluid px-0 align-items-stretch">
+                <!-- Logo Area -->
+                <div class="navbar-header">
+                    <a href="index.html" class="navbar-brand">
+                        @*<img class="logo-expand" alt="" src="~/plantilla_admi/img/logo-dark.png">*@
+                        <img class="logo-collapse" alt="" src="~/plantilla_admi/img/logo-collapse.png">
+                    </a>
+                </div>
+                <div class="spacer"></div>
+                <!-- User Image with Dropdown -->
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a href="javascript:void(0);" class="dropdown-toggle dropdown-toggle-user ripple" data-toggle="dropdown"><span class="avatar thumb-xs2"><img src="~/plantilla_admin/demo/users/user1.jpg" class="rounded-circle" alt=""> <i class="material-icons list-icon">expand_more</i></span></a>
+                        <div class="dropdown-menu dropdown-left dropdown-card dropdown-card-profile animated flipInY">
+                            <div class="card">
+                                <ul class="list-unstyled card-body">
+                                    <li>
+                                        <a href="/auth/logaut"><span><span class="align-middle">Cerrar Sesión</span></span></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            
+        </nav>
+        <!-- /.navbar -->
+        <div class="content-wrapper">
+            <!-- SIDEBAR -->
+            <aside class="site-sidebar clearfix">
+                <div class="container-fluid">
+                    <nav class="sidebar-nav">
+                        <ul class="nav in side-menu">
+                            <li class="menu-item-has-children">
+                                <a href="/inicio/index"><i class="list-icon material-icons">home</i> <span class="hide-menu">Inicio</span></a>
+                            </li>
+                            <li class="">
+                                <a href="/inicio/carta"><i class="list-icon material-icons">home</i> <span class="hide-menu">Carta</span></a>
+                            </li>
+                            <li class="">
+                                <a href="/inicio/reservas"><i class="list-icon material-icons">home</i> <span class="hide-menu">Reservaciones</span></a>
+                            </li>
+                        </ul>
+                        
+                    </nav>
+                   
+                </div>
+            </aside>
+            <main class="main-wrapper clearfix">
+                @RenderBody()
+            </main>
+            <!-- /.main-wrappper -->
+        </div>
+        <!-- /.content-wrapper -->
+        <!-- FOOTER -->
+        <footer class="footer bg-primary text-inverse text-center">
+            <div class="container-fluid">
+                <span class="fs-13 heading-font-family">DIARS 2021</span>
+            </div>
+            <!-- /.container-fluid -->
+        </footer>
+    </div>
+    <!--/ #wrapper -->
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/metisMenu/2.7.9/metisMenu.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.4.0/perfect-scrollbar.min.js"></script>
+    <script src="~/plantilla_admi/js/bootstrap.min.js"></script>
+    <script src="~/plantilla_admi/js/template.js"></script>
+    <script src="~/plantilla_admi/js/custom.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,695 @@
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.exe
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.deps.json
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.json
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfo.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.Manifest.cache
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.xml
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proyecto_diars.styles.css
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.input.cache
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.output.cache
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorCoreGenerate.cache
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Index.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CopyComplete
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.genruntimeconfig.cache
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\carta.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\Index.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\detallepedido.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Create.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Detalle.cshtml.g.cs
+C:\Users\HP\source\repos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.exe
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.deps.json
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.json
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.dev.json
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csprojAssemblyReference.cache
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfoInputs.cache
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfo.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CoreCompileInputs.cache
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.MvcApplicationPartsAssemblyInfo.cache
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cache
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.Manifest.cache
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.xml
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proyecto_diars.styles.css
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.input.cache
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.output.cache
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorCoreGenerate.cache
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\carta.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Detalle.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Index.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cache
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CopyComplete
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.genruntimeconfig.cache
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Create.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Carrito.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\reservas.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\detallepedido.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\menus.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Create.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Index.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\detallepedido.cshtml.g.cs
+C:\Jefri}\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\Index.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.exe
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.deps.json
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.json
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.dev.json
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfo.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cache
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.Manifest.cache
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.xml
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proyecto_diars.styles.css
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.input.cache
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.output.cache
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorCoreGenerate.cache
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Create.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Index.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\detallepedido.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\Index.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Create.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Carrito.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\carta.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Detalle.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\detallepedido.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Index.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\menus.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\reservas.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CopyComplete
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.exe
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.deps.json
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.json
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csprojAssemblyReference.cache
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cache
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.Manifest.cache
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.xml
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proyecto_diars.styles.css
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.input.cache
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.output.cache
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorCoreGenerate.cache
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Create.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Index.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\detallepedido.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\Index.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Create.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Carrito.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\carta.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Detalle.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\detallepedido.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Index.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\menus.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\reservas.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cache
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cs
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CopyComplete
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Users\asus\OneDrive\Documentos\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.genruntimeconfig.cache
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Edit.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\AgregarProducto.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminCategoria\Create.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminCategoria\Index.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminMesa\Create.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminMesa\Index.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+C:\Users\HP\Documents\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\Reservadia.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.exe
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.deps.json
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.json
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.dev.json
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csprojAssemblyReference.cache
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfoInputs.cache
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfo.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CoreCompileInputs.cache
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cache
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.input.cache
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.output.cache
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorCoreGenerate.cache
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminCategoria\Create.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminCategoria\Index.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminMesa\Create.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminMesa\Index.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Create.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Edit.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Index.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\detallepedido.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\Index.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\Reservadia.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Create.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Carrito.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\carta.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Detalle.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\detallepedido.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Index.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\menus.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\reservas.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\AgregarProducto.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cache
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CopyComplete
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.Manifest.cache
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.xml
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.genruntimeconfig.cache
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\Moso.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\detallepedido.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\Cocina.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\AgregarProducto_Moso.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\IndexCajero.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\DetalleHistorial.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\DetallePedidoCajero.cshtml.g.cs
+C:\Users\josel\Downloads\Descargad de proyecto jefri\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\HistorialReservas.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.exe
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.deps.json
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.json
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.dev.json
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csprojAssemblyReference.cache
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfo.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cache
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.Manifest.cache
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.xml
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proyecto_diars.styles.css
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.input.cache
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.output.cache
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorCoreGenerate.cache
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminCategoria\Create.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminCategoria\Index.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminMesa\Create.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminMesa\Index.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Create.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Edit.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Index.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\detallepedido.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\Index.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\Reservadia.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Create.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Carrito.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\carta.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Detalle.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\detallepedido.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Index.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\menus.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\reservas.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\AgregarProducto_Moso.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\Cocina.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\DetalleHistorial.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\detallepedido.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\DetallePedidoCajero.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\HistorialReservas.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\IndexCajero.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\Moso.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\AgregarProducto.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CopyComplete
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.genruntimeconfig.cache
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\Create.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\listar.cshtml.g.cs
+C:\Users\HP\Documents\04-06-2021\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminMesa\Mesas_libres.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.exe
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.deps.json
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.json
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.runtimeconfig.dev.json
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.AssemblyInfo.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.Manifest.cache
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto_diars.StaticWebAssets.xml
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proyecto_diars.styles.css
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.input.cache
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.TagHelpers.output.cache
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorCoreGenerate.cache
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminCategoria\Create.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminCategoria\Index.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminMesa\Create.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminMesa\Index.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminMesa\Mesas_libres.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Create.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Edit.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminProducto\Index.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\detallepedido.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\Index.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\AdminReserva\Reservadia.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Create.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Carrito.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\carta.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Detalle.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\detallepedido.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Index.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\menus.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\reservas.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\AgregarProducto_Moso.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\Cocina.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\Create.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\DetalleHistorial.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\detallepedido.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\DetallePedidoCajero.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\HistorialReservas.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\IndexCajero.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\listar.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Personal\Moso.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\AgregarProducto.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.Views.pdb
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.csproj.CopyComplete
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.dll
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.pdb
+C:\Users\HP\Downloads\Proyecto_diars-master\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.genruntimeconfig.cache

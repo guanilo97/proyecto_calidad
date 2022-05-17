@@ -1,0 +1,34 @@
+﻿
+
+
+
+
+@{ Layout = "_LayoutUsuario"; }
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Nª Personas</th>
+            <th>Fecha</th>
+            <th>Hora</th>
+            <th>Mesa</th>
+            <th>Pedido</th>
+
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.N_personas</td>
+                <td>@item.Fecha</td>
+                <td>@item.Hora</td>
+                <td>@item.mesa.N_Mesa</td>
+
+
+                <td><a href="/inicio/detallepedido?id=@item.Id" class="btn btn-success">Detalle Pedido</a></td>
+            </tr>
+
+        }
+    </tbody>
+</table>

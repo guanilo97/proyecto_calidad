@@ -1,0 +1,33 @@
+﻿@{ Layout = "_AdminLayout"; }
+<a href="/Personal/Moso">volver</a>
+<div class="container">
+    <a href="/Personal/AgregarProducto_Moso?idreserva=@ViewBag.Idreserva" class="btn btn-primary pull-right">Agregar producto</a>
+</div>
+<br />
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Producto</th>
+            <th>Cantidad</th>
+            <th>Precio</th>
+            <th>Subtotal</th>
+            <th>Eliminar</th>
+
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.productos.Nombre</td>
+                <td>@item.Cantidad</td>
+                <td>@item.productos.Precio</td>
+                <td>@item.Subtotal</td>
+
+                <td><a class="btn btn-danger" href="/Personal/EliminarDetallePedido?iddetalle=@item.Id">Eliminar</a></td>
+            </tr>
+
+        }
+    </tbody>
+</table>

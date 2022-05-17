@@ -1,0 +1,32 @@
+﻿@{ Layout = "_AdminLayout"; }
+<div class="container-fluid">
+    <section class="content">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Usuario</th>
+                    <th>Fecha</th>
+                    <th>Hora</th>
+                    <th>Mesa</th>
+                    <th>Total</th>
+                    <th>Detalle Pedido</th>
+                </tr>
+
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.usuario.Username</td>
+                        <td>@item.Fecha</td>
+                        <td>@item.Hora</td>
+                        <td>@item.mesa.N_Mesa</td>
+                        <td>@item.Total</td>
+                        <td><a class="btn btn-success" href="/Personal/DetalleHistorial?idreserva=@item.Id">Detalle</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </section>
+</div>

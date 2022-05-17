@@ -1,0 +1,26 @@
+﻿@{ Layout = "_AdminLayout"; }
+<a href="/Personal/IndexCajero">volver</a>
+
+<br />
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Producto</th>
+            <th>Cantidad</th>
+            <th>Precio</th>
+            <th>Subtotal</th>
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.productos.Nombre</td>
+                <td>@item.Cantidad</td>
+                <td>@item.productos.Precio</td>
+                <td>@item.Subtotal</td>
+            </tr>
+        }
+    </tbody>
+</table>

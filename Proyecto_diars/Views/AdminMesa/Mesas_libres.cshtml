@@ -1,0 +1,18 @@
+﻿
+
+
+
+
+@{ Layout = null;}
+<select id="listamesa" name="Id_Mesa" class="form-control">
+    <option value="">-- Selecciona mesa --</option>
+    @foreach (var item in Model)
+    {
+        //if (item.Id == Model.mesa)
+        //{
+
+        <option value="@item.Id">@item.N_Mesa</option>
+        //}
+    }
+</select>
+

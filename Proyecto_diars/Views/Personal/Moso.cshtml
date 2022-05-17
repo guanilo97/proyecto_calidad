@@ -1,0 +1,30 @@
+﻿@{ Layout = "_AdminLayout"; }
+
+<section class="content">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Usuario</th>
+                <th>Nª Personas</th>
+                <th>Mesa</th>
+                <th>Detalle</th>
+                <th>Finalizar atención</th>
+            </tr>
+
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.usuario.Username</td>
+                    <td>@item.N_personas</td>
+                    <td>@item.mesa.N_Mesa</td>
+                    <td><a href="/Personal/detallepedido?id=@item.Id" class="btn btn-success">Detalle Pedido</a></td>
+                    <td><a href="/Personal/finalizaratencion?id=@item.Id" class="btn btn-warning">Finalizar</a></td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+
+</section>

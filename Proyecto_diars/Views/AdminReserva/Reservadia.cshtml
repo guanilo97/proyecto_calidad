@@ -1,0 +1,135 @@
+﻿@{ Layout = "_AdminLayout"; }
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+
+<div class="container-fluid">
+    <div class="row page-title clearfix">
+        <div class="page-title-left">
+            <h6 class="page-title-heading mr-0 mr-r-5">Pedidos</h6>
+        </div>
+    </div>
+
+    <section class="content">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Usuario</th>
+                    <th>Nª Personas</th>
+                    <th>Fecha</th>
+                    <th>Hora</th>
+                    <th>Mesa</th>
+                    <th>Estado del pedido</th>
+                    <th>Pedido</th>
+
+                </tr>
+
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.usuario.Username</td>
+                        <td>@item.N_personas</td>
+                        <td>
+                            @string.Format("{0:d}", item.Fecha)
+                        </td>
+                        <td>@item.Hora</td>
+                        <td>@item.mesa.N_Mesa</td>
+                        <td>
+                            <!-- Button trigger modal -->
+                            @item.estado_Pedido.Nombre_Estado
+                            @if (item.estado_Pedido.Nombre_Estado != "Finalizado" & item.estado_Pedido.Nombre_Estado !="Pagado")
+                            {
+                                <button type="button" class="reservas btn btn-warning" data-bs-toggle="modal" data-idreserva="@item.Id" data-bs-target="#exampleModal">
+                                    Cambiar estado
+                                </button>
+                            }
+        
+
+                            @*<select id="cambiarestado" class="form-control" name="Id_Estado_Pedido">
+                                    <option value="null">Cambiar estado</option>
+                                    @foreach (var itemEstado in ViewBag.EstadoPedido)
+                                    {
+                                        <option id="" class="reservas" data-idreserva="@item.Id" value="@itemEstado.Nombre_Estado">@itemEstado.Nombre_Estado</option>
+                                    }
+                                </select>*@
+                        </td>
+
+                        <td><a href="/AdminReserva/detallepedido?idreserva=@item.Id" class="btn btn-success">Detalle Pedido</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </section>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Seleccione estado a cambiar</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <button id="est1" type="button" class="btn btn-warning">Reservado</button>
+                <button id="est2" type="button" class="btn btn-success">En atención</button>
+                <button id="est3" type="button" class="btn btn-red">Finalizado</button>
+                @*<button id="est4" type="button" class="btn btn-red">No llego</button>*@
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    var idreserva = 0;
+
+    $("body").on("click", ".reservas", function (e) {
+        var $this = $(this)
+
+        e.preventDefault();
+        idreserva = $this.data("idreserva");
+    });
+
+    $('#est1').click(function () {
+        var request = $.ajax({
+            url: '/AdminReserva/CambiarEstado?idreserva=' + idreserva + '&&estadopedido=Reservado'
+        });
+
+        request.done(function (resp) {
+            if (resp == true) {
+                location.reload();
+            }
+        });
+    });
+    $('#est2').click(function () {
+        var request = $.ajax({
+            url: '/AdminReserva/CambiarEstado?idreserva=' + idreserva + '&&estadopedido=En atencion'
+        });
+
+        request.done(function (resp) {
+            if (resp == true) {
+                location.reload();
+            }
+        });
+    });
+    $('#est3').click(function () {
+        var request = $.ajax({
+            url: '/AdminReserva/CambiarEstado?idreserva=' + idreserva + '&&estadopedido=Finalizado'
+        });
+
+        request.done(function (resp) {
+            if (resp == true) {
+                location.reload();
+            }
+        });
+    });
+</script>
